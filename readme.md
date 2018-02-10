@@ -1,4 +1,5 @@
 Prueba de git
 Otra linea
 Buena linea
-Esta provoca incosistencia
+Esta no provoca incosistencia
+Esta si que la provoca
